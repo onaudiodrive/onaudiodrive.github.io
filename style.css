@@ -8,14 +8,14 @@ body {
   
   height: 300vh;
 }
-
+#C0C0C0
 a:link     {  color: #ffffff; text-decoration: none;  }
 a:active   {  color: #ffffff; text-decoration: none;  }
 a:visited  {  color: #ffffff; text-decoration: none;  }
-a:hover    {  color: #6acd0c; text-decoration: none;  }
+a:hover    {  color: #C0C0C0; text-decoration: none;  }
 
 body {
-    font-family: 'Helvetica', 'Tahoma','Verdana','Arial', sans-serif;
+    font-family: 'Tahoma','Helvetica','Verdana','Arial', sans-serif;
     font-size: 18px;
     margin: 0;
     padding: 0;
@@ -62,12 +62,12 @@ nav ul li a {
 nav ul li a:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgb(255, 255, 255);
   background: rgba(255, 255, 255, 0.1);
-  color: #6acd0c
+  color: #ffffff
 }
 
 /* Die Boxen im Main-Bereich formatieren */
 .box {
-    border: 2px solid #ccc; /* Rahmen der Box */
+    border: 2px solid #C0C0C0; /* Rahmen der Box */
     background-color: rgba(0, 0, 0, .3); /* Hintergrundfarbe der Box */
     max-width: 860px; /* Innenabstand */
     margin-bottom: 20px; /* Abstand zwischen den Boxen */
