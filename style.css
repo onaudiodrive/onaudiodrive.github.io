@@ -95,6 +95,18 @@ nav ul li a:hover {
     margin-bottom: 20px; 
     border-radius: 5px;
 }
+.neon {
+  color: #fff;
+  text-shadow:
+    0 0 5px #000000,
+    0 0 10px #000000,
+    0 0 20px #000000,
+    0 0 40px rgb(255, 255, 255),
+    0 0 80px rgb(255, 255, 255),
+    0 0 90px rgb(255, 255, 255),
+    0 0 100px rgb(255, 255, 255),
+    0 0 150px rgb(255, 255, 255);
+}
 
 <!--Footer -->
 
